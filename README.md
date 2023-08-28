@@ -1,5 +1,6 @@
 # Diwali_Sales_Analysis
 Performing EDA to see Sales based on various parameters like age state marital status 
+DATA ANALYSIS PROJECT BASED ON PHYTHON LIBRARIES LIKE NUMPY PANDAS AND VISUALISATION WITH SEABORN AND MATHPLOTLIB
 
 
 ![Diwali_Sales_Analysis-Diwali_Sales_Analysis-ipynb-at-main-·-miraj0507-Diwali_Sales_Analysis](https://github.com/miraj0507/Diwali_Sales_Analysis/assets/62544210/d82925a8-edc8-4408-8ff0-8aae0d134cdd)
